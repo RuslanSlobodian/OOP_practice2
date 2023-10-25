@@ -29,6 +29,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     Publication* array[4];
+
     int choise;
     for (int i = 0; i < 4; ++i) {
         cout << "What object do you want to craete? Book - 1, audiobook - 2";
